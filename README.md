@@ -81,8 +81,8 @@ Este repositório é um reflexo das minhas habilidades e das tecnologias com as 
 
 Sinta-se à vontade para explorar os projetos, abrir issues ou sugerir melhorias. Se você tiver alguma dúvida ou quiser trocar uma ideia, pode me encontrar em:
 
-  * **Meu Perfil no GitHub**: [https://github.com/leandrotmst](https://www.google.com/search?q=https://github.com/leandrotmst)
-  * **(Opcional) LinkedIn**: [https://www.linkedin.com/in/leandro-tomasetto-7b11452b0/](https://www.google.com/search?q=https://www.linkedin.com/in/leandro-tomasetto-7b11452b0/)
+  * **Meu Perfil no GitHub**: https://github.com/leandrotmst
+  * **(Opcional) LinkedIn**: https://www.linkedin.com/in/leandro-tomasetto-7b11452b0/
   * **(Opcional) Email**: leandrotomasetto@gmail.com
 
 -----
